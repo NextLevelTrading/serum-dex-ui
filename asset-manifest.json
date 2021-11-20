@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "https://dex.next-level.trade/static/css/main.e69d9291.chunk.css",
-    "main.js": "https://dex.next-level.trade/static/js/main.b708da42.chunk.js",
-    "main.js.map": "https://dex.next-level.trade/static/js/main.b708da42.chunk.js.map",
+    "main.js": "https://dex.next-level.trade/static/js/main.358089d8.chunk.js",
+    "main.js.map": "https://dex.next-level.trade/static/js/main.358089d8.chunk.js.map",
     "runtime-main.js": "https://dex.next-level.trade/static/js/runtime-main.2cb6cc25.js",
     "runtime-main.js.map": "https://dex.next-level.trade/static/js/runtime-main.2cb6cc25.js.map",
     "static/css/2.3a0ac4c9.chunk.css": "https://dex.next-level.trade/static/css/2.3a0ac4c9.chunk.css",
-    "static/js/2.471660f1.chunk.js": "https://dex.next-level.trade/static/js/2.471660f1.chunk.js",
-    "static/js/2.471660f1.chunk.js.map": "https://dex.next-level.trade/static/js/2.471660f1.chunk.js.map",
+    "static/js/2.2c036375.chunk.js": "https://dex.next-level.trade/static/js/2.2c036375.chunk.js",
+    "static/js/2.2c036375.chunk.js.map": "https://dex.next-level.trade/static/js/2.2c036375.chunk.js.map",
     "index.html": "https://dex.next-level.trade/index.html",
-    "precache-manifest.a431bb1347c5398502a3f8cea8a47523.js": "https://dex.next-level.trade/precache-manifest.a431bb1347c5398502a3f8cea8a47523.js",
+    "precache-manifest.5bcdc2842067c4d810eafe199bef4f1b.js": "https://dex.next-level.trade/precache-manifest.5bcdc2842067c4d810eafe199bef4f1b.js",
     "service-worker.js": "https://dex.next-level.trade/service-worker.js",
     "static/css/2.3a0ac4c9.chunk.css.map": "https://dex.next-level.trade/static/css/2.3a0ac4c9.chunk.css.map",
     "static/css/main.e69d9291.chunk.css.map": "https://dex.next-level.trade/static/css/main.e69d9291.chunk.css.map",
-    "static/js/2.471660f1.chunk.js.LICENSE.txt": "https://dex.next-level.trade/static/js/2.471660f1.chunk.js.LICENSE.txt",
+    "static/js/2.2c036375.chunk.js.LICENSE.txt": "https://dex.next-level.trade/static/js/2.2c036375.chunk.js.LICENSE.txt",
     "static/media/logo.svg": "https://dex.next-level.trade/static/media/logo.e1f4e28e.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.2cb6cc25.js",
     "static/css/2.3a0ac4c9.chunk.css",
-    "static/js/2.471660f1.chunk.js",
+    "static/js/2.2c036375.chunk.js",
     "static/css/main.e69d9291.chunk.css",
-    "static/js/main.b708da42.chunk.js"
+    "static/js/main.358089d8.chunk.js"
   ]
 }
