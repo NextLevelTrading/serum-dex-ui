@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "https://dex.next-level.trade/static/css/main.7036ed65.chunk.css",
-    "main.js": "https://dex.next-level.trade/static/js/main.2e627675.chunk.js",
-    "main.js.map": "https://dex.next-level.trade/static/js/main.2e627675.chunk.js.map",
+    "main.js": "https://dex.next-level.trade/static/js/main.5bd5d8cf.chunk.js",
+    "main.js.map": "https://dex.next-level.trade/static/js/main.5bd5d8cf.chunk.js.map",
     "runtime-main.js": "https://dex.next-level.trade/static/js/runtime-main.2cb6cc25.js",
     "runtime-main.js.map": "https://dex.next-level.trade/static/js/runtime-main.2cb6cc25.js.map",
     "static/css/2.3a0ac4c9.chunk.css": "https://dex.next-level.trade/static/css/2.3a0ac4c9.chunk.css",
     "static/js/2.1beeefdc.chunk.js": "https://dex.next-level.trade/static/js/2.1beeefdc.chunk.js",
     "static/js/2.1beeefdc.chunk.js.map": "https://dex.next-level.trade/static/js/2.1beeefdc.chunk.js.map",
     "index.html": "https://dex.next-level.trade/index.html",
-    "precache-manifest.3a46114064b7734b33fec1c30f86208c.js": "https://dex.next-level.trade/precache-manifest.3a46114064b7734b33fec1c30f86208c.js",
+    "precache-manifest.551990cdff73f16cd5ea350b71985f51.js": "https://dex.next-level.trade/precache-manifest.551990cdff73f16cd5ea350b71985f51.js",
     "service-worker.js": "https://dex.next-level.trade/service-worker.js",
     "static/css/2.3a0ac4c9.chunk.css.map": "https://dex.next-level.trade/static/css/2.3a0ac4c9.chunk.css.map",
     "static/css/main.7036ed65.chunk.css.map": "https://dex.next-level.trade/static/css/main.7036ed65.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3a0ac4c9.chunk.css",
     "static/js/2.1beeefdc.chunk.js",
     "static/css/main.7036ed65.chunk.css",
-    "static/js/main.2e627675.chunk.js"
+    "static/js/main.5bd5d8cf.chunk.js"
   ]
 }
