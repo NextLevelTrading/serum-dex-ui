@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "d12abea31e85bc0a9ccd47ce921ae95b",
+    "revision": "a36afad6e0f474f6ef1491a101e1004a",
     "url": "https://dex.next-level.trade/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dex.next-level.trade/static/css/2.3a0ac4c9.chunk.css"
   },
   {
-    "revision": "53333f90273917a6fe07",
-    "url": "https://dex.next-level.trade/static/css/main.e69d9291.chunk.css"
+    "revision": "81c2902c7aa233e94e9d",
+    "url": "https://dex.next-level.trade/static/css/main.7036ed65.chunk.css"
   },
   {
     "revision": "7cdd2f27c3842e7253d9",
@@ -20,7 +20,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "https://dex.next-level.trade/static/js/2.1beeefdc.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "53333f90273917a6fe07",
+    "revision": "81c2902c7aa233e94e9d",
     "url": "https://dex.next-level.trade/static/js/main.2e627675.chunk.js"
   },
   {
